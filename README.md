@@ -17,8 +17,8 @@ __________________mini calculator____________
 8. square
 9.power
 10. square root
-enter your choice1
+enter your choice 1
 enter a number 8
- enter a second number7
+enter a second number 7
 sum is  15
 ```
