@@ -3,7 +3,7 @@ A simple command-line mini calculator built with Python for basic arithmetic and
 # Sample ouput
 =========================
 __________________mini calculator____________
-=========================
+========================= 
 1.addition
 2.substract
 3.multiply
